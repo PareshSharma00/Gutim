@@ -1,0 +1,74 @@
+.nav-item{
+    display: inline;
+    padding-left: 65px;
+    
+}
+
+.navbar-brand{
+    padding-left: 150px;
+}
+
+.middle-container{
+    padding-top: 200px;
+}
+
+.bg-img{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    width: 2200px;
+}
+.middle-container{
+    padding-left: 100px;
+    padding-top: 370px;
+    padding-bottom: 50px;
+}
+.fix{
+    color: orangered;
+}
+.cal{
+    color: white;
+    font-size: 100px;
+}
+.pack{
+    color: white
+}
+.tim{
+    color: orangered;
+}
+.navbar-brand{
+    color: white;
+}
+.red{
+    color: white;
+  }
+  
+.blue{
+    color: orangered;
+  }
+#plans{
+    background-color: white;
+}
+.card-header{
+    background-color: orangered;
+    color: white;
+}
+.card{
+    text-align: center;
+    width: 400px;
+    
+}
+.row{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.h2{
+    color: orangered;
+}
+
+#title{
+    padding-bottom: 100px;
+}
